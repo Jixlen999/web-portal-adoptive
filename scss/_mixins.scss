@@ -1,0 +1,21 @@
+@mixin btns {
+    font-size: 12px;
+    margin-top: 30px;
+    background: #fff;
+    padding: 10px;
+    text-transform: uppercase;
+    border: 2px solid $mainColor;
+    color: $mainColor;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 400ms ease;
+  
+    &:hover {background: $hoverColor;}
+  
+    @media (max-width: 991px) {
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+  }
+  
