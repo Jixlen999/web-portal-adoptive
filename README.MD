@@ -6,7 +6,8 @@
 
 The project is made using HTML, CSS (SCSS) and a little bit of JavaScript.
 It has adoptive version made using media queries.
-#####Note: The interface is mostly in russian.
+
+##### Note: The interface is mostly in russian.
 
 ## Screenshots
 
